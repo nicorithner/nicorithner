@@ -7,22 +7,47 @@
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 - Languages: 
     Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, 
-    Learning 🇩🇰 Danish 🇳🇴 Norwegian (Bokmål)
+    Learning: 🇩🇰 Danish 🇳🇴 Norwegian (Bokmål)
 ```
+## SKILLS
+### LANGUAGES
+<p>
+  <img src="https://img.shields.io/badge/ruby%20-201E84.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
+</p>
 
+### FRAMEWORKS
+<p>
+  <img src="https://img.shields.io/badge/rails%20-7119C2.svg?&style=for-the-badge&logo=rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/sinatra%20-201E84.svg?&style=for-the-badge" />
+</p>
+
+### TOOLS 
+<p>
+  <img src="https://img.shields.io/badge/rspec%20-7119C2.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-201E84.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-2A42D0.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres%20-B8189A.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postico%20-7119C2.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+</p>
+
+### PROCESSES
+<p>
+  <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+</p>
 
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default)<p/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
 
-### Main Tools and languages I use: 
-
-<img align="left" alt="ruby photo" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="html photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" height="35px" width="30px" src=https://eggerapps.at/pgcommander/img/pg-commander-icon.png /> 
-<img align="left" alt="ruby photo" width="22px" src="https://camo.githubusercontent.com/94fa83e498c5e132e5ce0b082b262ad29e79cd6d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f736c61636b2e737667" /><br/>
 
 <h2  align="center">Contact Info</h2>
 <p align="center">
