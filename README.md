@@ -5,7 +5,7 @@
 - 📖  studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
-- Languages: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, learning 🇩🇰 Danish
+- Languages: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, learning 🇩🇰 Danish :norway: 🇳🇴 Norwegian (Bokmål)
 ```
 
 
