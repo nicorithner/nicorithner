@@ -2,7 +2,7 @@
 ### Here are some facts about me...
 ```
 - Pronouns: He/Him
-- 📖  studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
+- 📖  studying at Turing School of Software & Design out of Denver, Colorado (backend program)
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 - Languages: 
