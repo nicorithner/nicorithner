@@ -13,12 +13,12 @@
 ### LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript%20-f6d304.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-B8189A.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-f6d304.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
