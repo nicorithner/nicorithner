@@ -13,38 +13,38 @@
 ### LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL%20-B8189A.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript%20-f6d304.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-b5021c.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-a10219.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL%20-8d0216.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-650110.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-50010c.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
 <p>
-  <img src="https://img.shields.io/badge/rails%20-7119C2.svg?&style=for-the-badge&logo=rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/sinatra%20-201E84.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/node.js%20-2A42D0.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-B8189A.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/rails%20-2A42D0.svg?&style=for-the-badge&logo=rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/sinatra%20-253bbb.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/node.js%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 </p>
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/rspec%20-7119C2.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-201E84.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-2A42D0.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres%20-B8189A.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postico%20-7119C2.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-526422.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres%20-48571e.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postico%20-3d4b19.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-333e15.svg?&style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
 ### PROCESSES
 <p>
-  <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP%20-f2d31c.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-d9bd19.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20-c1a816.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20-a99313.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default)<p/>
