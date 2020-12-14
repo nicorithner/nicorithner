@@ -2,7 +2,7 @@
 ### Here are some facts about me...
 
 - Pronouns: He/Him
-- 💻 Software Developer. Back End with some Front End experience. Always learning new skills and exploring technologies.
+- 💻 Software Developer. Back End with some Front End experience. Always learning new skills and exploring technologies.<br/>
     <strong>Trained at [Turing School of Software and Design](https://turing.io/)</strong>
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
