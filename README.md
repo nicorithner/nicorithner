@@ -3,6 +3,7 @@
 ```
 - Pronouns: He/Him
 - 💻 Software Developer. Back End with some Front End experience. Always learning new skills and exploring technologies.
+    Trained at [Turing School of Software and Design](https://turing.io/)
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 - Languages: 
