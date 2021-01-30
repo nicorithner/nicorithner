@@ -60,8 +60,16 @@
 
 <hr/>
 
-### What I Am Learning These Days
+### Take A Peek At My Practice Space
 
-[Nico Rithner's Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
+<div align="center">
+  
+  <a href="https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021">
+  <img src="Coding-Gymnasium.png" width="500">
+  </a>
+
+[Visit Nico Rithner's Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
+
+</div>
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
