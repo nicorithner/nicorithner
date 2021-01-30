@@ -58,9 +58,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
 
+<div align="center">
+  
 <hr/>
 
-### Take A Peek At My Practice Space
+### Always Learning New Things And Practicing Fundamentals
+
+<hr/>
+
+</div>
 
 <div align="center">
   
