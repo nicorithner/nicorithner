@@ -1,3 +1,8 @@
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nicorithner@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ## Welcome to Nico Rithner's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Here are some facts about me...
 
@@ -53,12 +58,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
 
+<hr/>
 
-<h2  align="center">Contact Info</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nicorithner@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+### What I Am Learning These Days
 
+[Nico Rithner's Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
