@@ -71,7 +71,7 @@
 <div align="center">
   
   <a href="https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021">
-  <img src="Coding-Gymnasium.png" width="500">
+  <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif">
   </a>
 
 [Visit Nico Rithner's Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
