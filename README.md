@@ -56,8 +56,8 @@
 
 <div align="left">
 <table>
-<tr>
-<td align="top">
+<tr valign="top">
+<td>
 <a>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
 </a>
