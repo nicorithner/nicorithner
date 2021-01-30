@@ -53,10 +53,8 @@
   <img src="https://img.shields.io/badge/REST%20-a99313.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
+
 <div align="left">
-  
-  
-  <div align="center">
 <table>
 <tr>
 <td align="top">
@@ -74,11 +72,7 @@
   
 <hr/>
 
-
 <div align="left">
-  
-  
-  <div align="center">
 <table>
 <tr>
 <td>
