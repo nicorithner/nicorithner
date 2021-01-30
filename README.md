@@ -60,6 +60,45 @@
 
 <div align="center">
   
+  
+  <div align="center">
+<table>
+<tr>
+<td style="vertical-align:top">
+<a>
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
+</a>
+<td>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
+
+</td>
+</tr>
+</table>
+</div>
+  
+<hr/>
+
+
+<div align="center">
+  
+  
+  <div align="center">
+<table>
+<tr>
+<td>
+<a>
+  <img align="center" width="500px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/ad52e834-c759-4022-a819-9e6d81b12a3d.svg" />
+</a>
+<td>
+<a>
+  <img align="center" width="500px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/e08af930-c0dd-4166-bf41-a96ac9e091a4.svg" />
+</a
+</td>
+</tr>
+</table>
+</div>
+  
 <hr/>
 
 ### Always Learning New Things And Practicing Old Ones
