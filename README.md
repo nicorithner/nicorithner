@@ -62,7 +62,7 @@
   
 <hr/>
 
-### Always Learning New Things And Practicing Fundamentals
+### Always Learning New Things And Practicing Old Ones
 
 <hr/>
 
