@@ -53,18 +53,13 @@
   <img src="https://img.shields.io/badge/REST%20-a99313.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
-![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default)<p/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
-
-<div align="center">
+<div align="left">
   
   
   <div align="center">
 <table>
 <tr>
-<td style="vertical-align:top">
+<td align="top">
 <a>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
 </a>
@@ -80,7 +75,7 @@
 <hr/>
 
 
-<div align="center">
+<div align="left">
   
   
   <div align="center">
