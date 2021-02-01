@@ -52,10 +52,12 @@
 </p>
 
 ### Now Learning
+<p>
  <img src="https://img.shields.io/badge/JavaScript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
  <img src="https://img.shields.io/badge/React%20-253bbb.svg?&style=for-the-badge" />
  <img src="https://img.shields.io/badge/Node.js%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Express.js%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+</p>
 
 <div align="left">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
