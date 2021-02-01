@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/SQL%20-b5021c.svg?style=for-the-badge&logo=SQL&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord%20-a10219.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-8d0216.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-650110.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-50010c.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -31,14 +30,13 @@
 <p>
   <img src="https://img.shields.io/badge/rails%20-2A42D0.svg?&style=for-the-badge&logo=rails&logoColor=white" />
   <img src="https://img.shields.io/badge/sinatra%20-253bbb.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/node.js%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 </p>
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%20-526422.svg?&style=for-the-badge&logo=CI&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres%20-48571e.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
   <img src="https://img.shields.io/badge/Postico%20-3d4b19.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
@@ -53,21 +51,14 @@
   <img src="https://img.shields.io/badge/REST%20-a99313.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
+### Now Learning
+ <img src="https://img.shields.io/badge/JavaScript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/React%20-253bbb.svg?&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Node.js%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Express.js%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 
 <div align="left">
-<table>
-<tr valign="top">
-<td>
-<a>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
-</a>
-<td>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
-
-</td>
-</tr>
-</table>
 </div>
   
 <hr/>
