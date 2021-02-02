@@ -6,14 +6,13 @@
 ## Welcome to Nico Rithner's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Here are some facts about me...
 
-- Pronouns: He/Him
 - 💻 Software Developer. Back End with some Front End experience. Always learning new skills and exploring technologies.<br/>
     <strong>Trained at [Turing School of Software and Design](https://turing.io/)</strong>
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 - Languages: 
-    Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, 
-    Learning: 🇩🇰 Danish 🇳🇴 Norwegian (Bokmål)
+    * Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
+    * Learning: 🇩🇰 Danish 🇳🇴 Norwegian (Bokmål)
 
 ## SKILLS
 ### LANGUAGES
