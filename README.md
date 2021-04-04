@@ -57,27 +57,25 @@
  <img src="https://img.shields.io/badge/html5%20-650110.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-50010c.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-<div align="left">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
-</div>
-  
 <hr/>
 
 <div align="left">
-<table>
-<tr>
-<td>
-<a>
-  <img align="center" width="500px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/ad52e834-c759-4022-a819-9e6d81b12a3d.svg" />
-</a>
-<td>
-<a>
-  <img align="center" width="500px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/e08af930-c0dd-4166-bf41-a96ac9e091a4.svg" />
-</a
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td>
+        <a>
+          <img align="center" width="300px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/ad52e834-c759-4022-a819-9e6d81b12a3d.svg" />
+        </a>
+      <td>
+        <a>
+          <img align="center" width="300px" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/e08af930-c0dd-4166-bf41-a96ac9e091a4.svg" />
+        </a>
+      </td>
+      <td>
+        <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default" />
+      </td>
+    </tr>
+  </table>
 </div>
   
 <hr/>
