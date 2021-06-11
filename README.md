@@ -78,7 +78,7 @@
 
 <hr/>
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nicorithner&count_private&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicorithner&count_private&show_icons=true&theme=radical" />
 
 <hr/>
 
