@@ -51,9 +51,11 @@
 ### NOW ALSO LEARNING
 <p>
  <img src="https://img.shields.io/badge/JavaScript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript%20-790113.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/NestJS%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/React%20-253bbb.svg?&style=for-the-badge" />
- <img src="https://img.shields.io/badge/Node.js%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/Express.js%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/NodeJS%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Express%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
  <img src="https://img.shields.io/badge/html5%20-650110.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-50010c.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
