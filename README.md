@@ -12,7 +12,7 @@
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 - Languages: 
     * Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
-    * Learning: 🇩🇰 Danish 🇳🇴 Norwegian (Bokmål)
+    * Learning: 🇳🇴 Norwegian (Bokmål)
 
 ## SKILLS
 ### LANGUAGES
