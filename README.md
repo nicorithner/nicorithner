@@ -3,8 +3,7 @@
   <a href="mailto:nicorithner@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Welcome to Nico Rithner's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Here are some facts about me...
+## Nico Rithner
 
 - 💻 Software Developer. Back End with some Front End experience. Always learning new skills and exploring technologies.<br/>
     <strong>Trained at [Turing School of Software and Design](https://turing.io/)</strong>
