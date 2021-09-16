@@ -32,7 +32,6 @@
  <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
 </p>
 
-### OTHER
 <p>
   <img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest%20-677d2b.svg?&style=for-the-badge&logo=jest&logoColor=white" />
