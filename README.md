@@ -18,11 +18,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-4974a5.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20-2134a6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
- 
- <img src="https://img.shields.io/badge/html5%20-ff00ff.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-ff00ff.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-ca0320.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/html5%20-ca0320.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-ca0320.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p>
