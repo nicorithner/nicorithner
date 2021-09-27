@@ -5,14 +5,14 @@
 
 ## Nico Rithner
 
-- 💻 Software Developer. Always learning new skills and exploring technologies.<br/>
-    <strong>Trained at [Turing School of Software and Design](https://turing.io/)</strong>
-- Junior Full-Stack Engineer at [Altvia](https://altvia.com/) developing new skills on JavaScript, Reactjs, NextJS, CSS, Material-ui, TypeScript, NestJS.
+- 💻 Software Engineer. Always learning new skills and exploring the world of programming 🌎.<br/>
+- Trained at [Turing School of Software and Design](https://turing.io/) BE Program cohort 2006.
+- Junior Full-Stack Engineer at [Altvia](https://altvia.com/) developing new skills on JavaScript, TypeScript, NestJS, SQL, GraphQL, Reactjs, NextJS, CSS.
 - 🏋🏻‍♂️  Olympic Weightlifting coach and club owner [Colorado Weightlifting Club](coloradoweightlifting.com)
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro) but Coloradan since 2000.
 - Languages: 
     * Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
-    * Learning: 🇳🇴 Norwegian (Bokmål)
+    * Learning: 🇳🇴 Norwegian (Bokmål) Jeg snakker litt norsk!
 
 ## SKILLS
 
