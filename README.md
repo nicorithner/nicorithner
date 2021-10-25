@@ -18,17 +18,19 @@
 
 <p>
   <img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20-ca0320.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
  <img src="https://img.shields.io/badge/html5%20-ca0320.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-ca0320.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/rails%20-7a49a5.svg?&style=for-the-badge&logo=rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20-7a49a5.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/sinatra%20-7a49a5.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NestJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
 </p>
 
 <p>
@@ -45,13 +47,6 @@
   <img src="https://img.shields.io/badge/PgAdmin4%20-3d4b19.svg?&style=for-the-badge&logo=PgAdmin4&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-333e15.svg?&style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20-333e15.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
-</p>
-
-### NOW ALSO LEARNING
-<p>
-  <img src="https://img.shields.io/badge/TypeScript%20-2134a6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-   <img src="https://img.shields.io/badge/NodeJS%20-2134a6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/Express%20-1d2e91.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 </p>
   
 <hr/>
