@@ -59,7 +59,7 @@
 
 <div align="center">
   
-### [Visit Nico Rithner's Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
+### [View Nico Rithner's Personal Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
   
   <a href="https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021">
   <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif">
