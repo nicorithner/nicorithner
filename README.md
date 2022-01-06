@@ -5,9 +5,8 @@
 
 ## Nico Rithner
 
-- 💻 Software Engineer. Always learning new skills and exploring the world of programming 🌎.<br/>
+- 💻 Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/) developing new skills on Rails, JavaScript, SQL, Reactjs, CSS, AWS.
 - Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
-- Junior Full-Stack Engineer at [Altvia](https://altvia.com/) developing new skills on Rails, SalesForce, AWS, JavaScript, TypeScript, NestJS, SQL, GraphQL, Reactjs, NextJS, CSS.
 - 🏋🏻‍♂️  Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro) but Coloradan since 2000.
 - Languages: 
