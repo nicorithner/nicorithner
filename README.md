@@ -5,73 +5,29 @@
 
 ## Nico Rithner
 
-- 💻 Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/) currently working with:
-  -  Rails, 
-  -  JavaScript, 
-  -  ActiveRecord,
-  -  SQL, 
-  -  Reactjs, 
-  -  CSS, 
-  -  AWS.
-- Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
-- 🏋🏻‍♂️  Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
-- 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro) but Coloradan since 2000.
-- Languages: 
-    * Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
-    * Learning: 🇳🇴 Norwegian (Bokmål) Jeg snakker litt norsk!
+👨🏻‍💻 Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/)
 
-## SKILLS
+📚 Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
-<p>
-  <img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-ca0320.svg?style=for-the-badge&logo=SQL&logoColor=white" />
- <img src="https://img.shields.io/badge/html5%20-ca0320.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-ca0320.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+🏋🏻‍♂️  Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
 
-<p>
-  <img src="https://img.shields.io/badge/rails%20-7a49a5.svg?&style=for-the-badge&logo=rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20-7a49a5.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/sinatra%20-7a49a5.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NestJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro) but Coloradan since 2000.
 
-<p>
-  <img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest%20-677d2b.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku%20-5c7026.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-526422.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres%20-48571e.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
-</p>
-<p>  
-  <img src="https://img.shields.io/badge/GraphQL%20-48571e.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postico%20-3d4b19.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
-  <img src="https://img.shields.io/badge/PgAdmin4%20-3d4b19.svg?&style=for-the-badge&logo=PgAdmin4&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-333e15.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20-333e15.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
-</p>
-  
-<hr/>
-
-### Always Learning New Things And Practicing Old Ones
+Languages: 
+  - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
+  - Learning: 🇳🇴 Norwegian (Bokmål) Jeg snakker litt norsk!
 
 <hr/>
 
-</div>
-
-<div align="center">
+<p align="center">
   
-### [View Nico Rithner's Personal Coding Gymnasium](https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021)
-  
-  <a href="https://github.com/Coding-Gymansium/Nico-Coding-Gymnasium-Digest-2021">
-  <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif">
-  </a>
+<img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  <img src="https://img.shields.io/badge/SQL%20-ca0320.svg?style=for-the-badge&logo=SQL&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-ca0320.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-ca0320.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
 
-</div>
+<img src="https://img.shields.io/badge/Rails%20-7a49a5.svg?&style=for-the-badge&logo=rails&logoColor=white" /> <img src="https://img.shields.io/badge/NodeJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20-7a49a5.svg?&style=for-the-badge&logo=express.js&logoColor=white" /> <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" /> <img src="https://img.shields.io/badge/Jest%20-677d2b.svg?&style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20-333e15.svg?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker%20-333e15.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+
+</p>
 
 <hr/>
 
