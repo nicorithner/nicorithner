@@ -1,9 +1,15 @@
+<div align="center">
+  
+# Nico Rithner
+  
+</div>
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nicorithner@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Nico Rithner
+<hr/>
 
 👨🏻‍💻 Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/)
 
@@ -11,7 +17,9 @@
 
 🏋🏻‍♂️  Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
 
-🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro) but Coloradan since 2000.
+🇺🇸 Denver, Colorado since 2000. 
+
+🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 
 Languages: 
   - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
@@ -20,22 +28,34 @@ Languages:
 <hr/>
 
 <p align="center">
-  
-<img src="https://img.shields.io/badge/ruby%20-ca0320.svg?&style=for-the-badge&logo=ruby&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript%20-ca0320.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  <img src="https://img.shields.io/badge/SQL%20-ca0320.svg?style=for-the-badge&logo=SQL&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-ca0320.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-ca0320.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Rails%20-7a49a5.svg?&style=for-the-badge&logo=rails&logoColor=white" /> <img src="https://img.shields.io/badge/NodeJS%20-7a49a5.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20-7a49a5.svg?&style=for-the-badge&logo=express.js&logoColor=white" /> <img src="https://img.shields.io/badge/React%20-7a49a5.svg?&style=for-the-badge" />
+<p align="center">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" /> <img src="https://img.shields.io/badge/Jest%20-677d2b.svg?&style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20-333e15.svg?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker%20-333e15.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicorithner&count_private&show_icons=true&theme=radical" />
-
-<hr/>
-
-<div align="left">
+<div align="center">
   
   <a>
     <img align="center" width="45%" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/e08af930-c0dd-4166-bf41-a96ac9e091a4.svg" />
