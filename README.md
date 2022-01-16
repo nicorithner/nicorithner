@@ -1,6 +1,6 @@
 <div align="center">
   
-# Nico Rithner
+  # Nico Rithner
   
 </div>
 
@@ -28,8 +28,8 @@ Languages:
 <hr/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
@@ -55,15 +55,5 @@ Languages:
 
 <hr/>
 
-<div align="center">
-  
-  <a>
-    <img align="center" width="45%" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/e08af930-c0dd-4166-bf41-a96ac9e091a4.svg" />
-  </a>
-  
-  <a>
-    <img align="center" width="45%" src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/ad52e834-c759-4022-a819-9e6d81b12a3d.svg" />
-  </a>
-</div>
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
