@@ -11,13 +11,13 @@
 
 <hr/>
 
-👨🏻‍💻 Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/)
+👨🏻‍💻   Software Engineer. Junior Full-Stack Engineer at [Altvia](https://altvia.com/)
 
-📚 Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
+📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
-🏋🏻‍♂️  Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
+🏋🏻‍♂️   Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
 
-🇺🇸 Denver, Colorado since 2000. 
+🇺🇸   Denver, Colorado since 2000. 
 
 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 
@@ -54,6 +54,14 @@ Languages:
 </p>
 
 <hr/>
-
+<div align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true"
+/>
+<br />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nicorithner&&theme=react&&hide_border=true"
+/>
+</div>
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
