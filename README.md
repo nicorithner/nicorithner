@@ -63,5 +63,12 @@ Languages:
   src="https://github-readme-streak-stats.herokuapp.com/?user=nicorithner&&theme=react&&hide_border=true"
 />
 </div>
+
+<hr/>
+
+Here is where I practice my rough cuts, exlpore and play. Nothing fancy just my personal playground
+
+[Nico's Coding Gymnasium](https://github.com/Coding-Gymnasium)
+
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
