@@ -23,7 +23,7 @@
 
 Languages: 
   - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
-  - Learning: 🇳🇴 Norwegian (Bokmål) Jeg snakker litt norsk!
+  - 🇳🇴 Norwegian (Bokmål) - A2 level (currently studying)
 
 <hr/>
 
