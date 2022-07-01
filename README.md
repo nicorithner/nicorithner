@@ -16,15 +16,15 @@
 
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
-🏋🏻‍♂️   Olympic Weightlifting Head Coach [Colorado Weightlifting Club](coloradoweightlifting.com)
+🏋🏻‍♂️   Olympic Weightlifting Coach
 
-🇺🇸   Denver, Colorado since 2000. 
+🇺🇸   Denver, Colorado 
 
 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 
-Languages: 
-  - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/>
+Languages:
   - 🇳🇴 Norwegian (Bokmål) - A2 level (currently studying)
+  - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/> 
 
 <hr/>
 
@@ -64,12 +64,6 @@ Languages:
   src="https://github-readme-streak-stats.herokuapp.com/?user=nicorithner&&theme=react&&hide_border=true"
 />
 </div>
-
-<hr/>
-
-Here is where I practice my rough cuts, exlpore and play. Nothing fancy just my personal playground
-
-[Nico's Coding Gymnasium](https://github.com/Coding-Gymnasium)
 
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
