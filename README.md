@@ -23,7 +23,7 @@
 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
 
 Languages:
-  - 🇳🇴 Norwegian (Bokmål) - A2 level (currently studying)
+  - 🇳🇴 Norwegian (Bokmål) - A2 level (currently studying in Trondheim, Norway)
   - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/> 
 
 <hr/>
