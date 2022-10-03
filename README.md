@@ -12,7 +12,7 @@
 
 <hr/>
 
-👨🏻‍💻   Software Engineer. Full-Stack Engineer at [Altvia](https://altvia.com/)
+👨🏻‍💻   Software Engineer
 
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
