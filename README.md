@@ -12,7 +12,7 @@
 
 <hr/>
 
-👨🏻‍💻   Software Engineer
+👨🏻‍💻   Software Engineer @ [ProductPlan](https://github.com/ProductPlan)
 
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
