@@ -7,7 +7,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nicorithner@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.nicorithner.com"> <img src="https://img.shields.io/badge/grab my resume-F80000?style=for-the-badge" /> </a>
+  <a target="_blank" href="https://drive.google.com/file/d/1ncNRoWOo-jnHhANPa7lrZU7r2TUMZMAh/view"> <img src="https://img.shields.io/badge/grab my resume-F80000?style=for-the-badge" /> </a>
 </p>
 
 <hr/>
