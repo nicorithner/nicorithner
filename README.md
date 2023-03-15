@@ -45,10 +45,6 @@ Languages:
 <img
   src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true"
 />
-<br />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=nicorithner&&theme=react&&hide_border=true"
-/>
 </div>
 
 <!--
