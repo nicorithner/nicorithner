@@ -42,9 +42,9 @@ Languages:
 
 <hr/>
 <div align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true"
-/>
+   <a href="https://github.com/nicorithner/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true"/>
+   </a>
 </div>
 
 <!--
