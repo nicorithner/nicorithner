@@ -47,5 +47,11 @@ Languages:
    </a>
 </div>
 
+<div align="center">
+  
+  <figure><embed src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/9040c830-dea5-453a-9def-4a93c5f04b09.svg"></embed></figure>
+
+</div>
+
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
