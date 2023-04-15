@@ -49,7 +49,7 @@ Languages:
 
 <div align="center">
   
-  <figure><embed src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/9040c830-dea5-453a-9def-4a93c5f04b09.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/0bec12ee-25f4-4fe8-adf7-343bb96cd685.svg" width="600"/>
 
 </div>
 
