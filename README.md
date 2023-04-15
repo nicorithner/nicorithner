@@ -43,7 +43,7 @@ Languages:
 <hr/>
 <div align="center">
    <a href="https://github.com/nicorithner/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="500"/>
    </a>
 </div>
 
