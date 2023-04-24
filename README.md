@@ -39,10 +39,11 @@ Languages:
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
 
-<p align="center">
+<div align="center">
+  <h3> Currently Learning </h3>
   <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
-</p>
+</div>
 
 
 <hr/>
