@@ -39,19 +39,26 @@ Languages:
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=java&logoColor=white&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white&logoWidth=40" />
+</p>
+
 
 <hr/>
-<div align="center">
-   <a href="https://github.com/nicorithner/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="500"/>
-   </a>
-</div>
+
 
 <div align="center">
   
-  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/0bec12ee-25f4-4fe8-adf7-343bb96cd685.svg" width="500"/>
+  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/83739375-1dc2-40db-8b16-69423ef8dc53.svg" width="450"/>
+  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/aa9e1aa2-3110-4341-a359-1539c18803ec.svg" width="450"/>
 
 </div>
 
+<div align="center">
+   <a href="https://github.com/nicorithner/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="600"/>
+   </a>
+</div>
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
