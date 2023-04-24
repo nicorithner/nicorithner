@@ -40,8 +40,8 @@ Languages:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=java&logoColor=white&logoWidth=40"/>
-  <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white&logoWidth=40" />
+  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
 </p>
 
 
@@ -57,7 +57,7 @@ Languages:
 
 <div align="center">
    <a href="https://github.com/nicorithner/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="600"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="450"/>
    </a>
 </div>
 <!--
