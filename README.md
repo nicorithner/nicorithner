@@ -46,14 +46,15 @@ Languages:
 
 <hr/>
 
-<!--
+
 <div align="center">
-  
+<img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/c6c42265-d773-4f32-aa8c-ae9dc660cf8a.svg" width="450"/>
+ <!-- 
   <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/83739375-1dc2-40db-8b16-69423ef8dc53.svg" width="450"/>
   <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/aa9e1aa2-3110-4341-a359-1539c18803ec.svg" width="450"/>
-
+ -->
 </div>
--->
+
 
 <div align="center">
    <a href="https://github.com/nicorithner/github-readme-stats">
