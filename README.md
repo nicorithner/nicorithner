@@ -46,6 +46,20 @@ Languages:
 
 <hr/>
 
+  ## My Frontend Mentor Projects 🎨
+  
+  [My frontendmentor completed projects](https://www.frontendmentor.io/profile/nicorithner) - link to live page and github repos included.
+  
+  Frontend Mentor is a website where you can access different project assignments to practice several FE skills in a similar way one does at work.
+The assignments only provide you with stories, mockups, Figma or Sketch files and once completed the project has to be published using github pages.
+  
+  In these projects I have been using ReactJS, styled-components or SaSS, TypeScript, etc. I intend to keep switching some of the technologies and take advantage of having this projects as a medium to grow my FE skills outside the work.
+
+Im trully enjoying the assignments and community and I highly recommend it.
+
+[frontendmentor.io](https://www.frontendmentor.io)
+  
+<hr/>
 
 <div align="center">
 <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/c6c42265-d773-4f32-aa8c-ae9dc660cf8a.svg" width="450"/>
