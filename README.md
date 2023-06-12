@@ -60,7 +60,15 @@ The assignments only provide you with stories, mockups, Figma or Sketch files an
 Im trully enjoying the assignments and community and I highly recommend it.
 
 [frontendmentor.io](https://www.frontendmentor.io)
-  
+
+<div align="center">
+  <a href="https://www.frontendmentor.io/profile/nicorithner">
+    <img src="clock-app.png" width="250"/>
+    <img src="advice-api.png" width="250"/>
+    <img src="rating-app.png" width="250"/>
+  </a>
+</div>
+
 <hr/>
 
 <div align="center">
