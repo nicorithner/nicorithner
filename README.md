@@ -79,9 +79,9 @@ Im trully enjoying the assignments and community and I highly recommend it.
 
 <div align="center">
   <a href="https://www.frontendmentor.io/profile/nicorithner">
-    <img src="clock-app.png" width="250"/>
-    <img src="advice-api.png" width="250"/>
-    <img src="rating-app.png" width="250"/>
+    <img src="clock_app.png" width="250"/>
+    <img src="advise_generator.png" width="250"/>
+    <img src="rating_app.png" width="250"/>
   </a>
 </div>
 
