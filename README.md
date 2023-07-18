@@ -29,19 +29,21 @@ Languages:
 <hr/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
 
 <div align="center">
-  <h3> 📚 Currently Studying 👩🏻‍💻 </h3>
-  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=oracle&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
    <img src="https://img.shields.io/badge/Styled_components-3C6D90?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+
+  <h3> 📚 Currently Studying 👩🏻‍💻 </h3>
+  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_boot-3C6D90?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
@@ -70,12 +72,6 @@ Languages:
   
   Frontend Mentor is a website where you can access different project assignments to practice several FE skills in a similar way one does at work.
 The assignments only provide you with stories, mockups, Figma or Sketch files and once completed the project has to be published using github pages.
-  
-  In these projects I have been using ReactJS, styled-components or SaSS, TypeScript, etc. I intend to keep switching some of the technologies and take advantage of having this projects as a medium to grow my FE skills outside the work.
-
-Im trully enjoying the assignments and community and I highly recommend it.
-
-[frontendmentor.io](https://www.frontendmentor.io)
 
 <div align="center">
   <a href="https://www.frontendmentor.io/profile/nicorithner">
