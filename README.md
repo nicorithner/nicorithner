@@ -42,9 +42,6 @@ Languages:
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
    <img src="https://img.shields.io/badge/Styled_components-3C6D90?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 
-  <h3> 📚 Currently Studying 👩🏻‍💻 </h3>
-  <img src="https://img.shields.io/badge/JAVA-3C6D90?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_boot-3C6D90?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
 <hr/>
