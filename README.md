@@ -16,18 +16,6 @@
 
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
-🏋🏻‍♂️   Olympic Weightlifting Coach
-
-🇺🇸   Denver, Colorado 
-
-🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
-
-Languages:
-  - Fluent: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, <br/> 
-  - 🇳🇴 Norwegian (Bokmål) - B1 level (intermediate)
-
-<hr/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,23 +30,6 @@ Languages:
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
    <img src="https://img.shields.io/badge/Styled_components-3C6D90?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 
-</div>
-
-<hr/>
-
-<div align="center">
-<img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/c6c42265-d773-4f32-aa8c-ae9dc660cf8a.svg" width="450"/>
- <!-- 
-  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/83739375-1dc2-40db-8b16-69423ef8dc53.svg" width="450"/>
-  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/aa9e1aa2-3110-4341-a359-1539c18803ec.svg" width="450"/>
- -->
-</div>
-
-
-<div align="center">
-   <a href="https://github.com/nicorithner/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="450"/>
-   </a>
 </div>
 
 <hr/>
@@ -80,6 +51,20 @@ The assignments only provide you with stories, mockups, Figma or Sketch files an
 
 <hr/>
 
+<div align="center">
+<img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/c6c42265-d773-4f32-aa8c-ae9dc660cf8a.svg" width="450"/>
+ <!-- 
+  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/83739375-1dc2-40db-8b16-69423ef8dc53.svg" width="450"/>
+  <img src="https://wakatime.com/share/@d4ca273f-8825-4655-a345-095295882ab1/aa9e1aa2-3110-4341-a359-1539c18803ec.svg" width="450"/>
+ -->
+</div>
+
+
+<div align="center">
+   <a href="https://github.com/nicorithner/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=react&&hide_border=true" width="450"/>
+   </a>
+</div>
 
 <!--
 **nicorithner/nicorithner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
