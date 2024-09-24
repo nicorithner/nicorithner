@@ -7,7 +7,8 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nicorithner@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://drive.google.com/file/d/1ncNRoWOo-jnHhANPa7lrZU7r2TUMZMAh/view"> <img src="https://img.shields.io/badge/grab my resume-F80000?style=for-the-badge" /> </a>
+  <a target="_blank" href="https://drive.google.com/file/d/1TciMtrHq-y6eAaXTs34pAj-1VzbgDHE7/view?usp=sharing"> <img src="https://img.shields.io/badge/grab my resume-48494B?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://drive.google.com/file/d/1i2ChQaCIomq9OBgizlR9jLSVKKM19v4H/view?usp=drive_link"> <img src="https://img.shields.io/badge/få min CV-001833?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>
 </p>
 
 <hr/>
@@ -17,18 +18,19 @@
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-e6b800?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+
+ 
 </p>
 
 <div align="center">
- 
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
-   <img src="https://img.shields.io/badge/css-3C6D90?style=for-the-badge&logo=css&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/CSS-3C6D90?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
