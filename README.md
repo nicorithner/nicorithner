@@ -28,7 +28,7 @@
 <div align="center">
  
   <img src="https://img.shields.io/badge/TypeScript-3C6D90?style=for-the-badge&logo=typeScript&logoColor=white" />
-   <img src="https://img.shields.io/badge/Styled_components-3C6D90?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+   <img src="https://img.shields.io/badge/css-3C6D90?style=for-the-badge&logo=css&logoColor=white" />
 
 </div>
 
