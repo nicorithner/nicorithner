@@ -41,9 +41,9 @@
 
 <div align="center">
   <a href="https://www.nicorithner.com">
-    <img src="nico-site.png" width="700"/>
-    &nbsp;&nbsp;&nbsp; <!-- Adjust the number of &nbsp; for more or less space -->
-    <img src="nico-site-mobile.png" width="180"/>
+    <img src="nico-site.png" width="500" align="top" />
+    &nbsp;&nbsp;
+    <img src="nico-site-mobile.png" width="200" align="top" />
   </a>
 </div>
 
@@ -51,8 +51,8 @@
 
 <div align="center">
   <a href="https://www.drakkarweightlifting.com">
-    <img src="drakkar-site.png" width="700"/>
-    &nbsp;&nbsp;&nbsp; <!-- Adjust the number of &nbsp; for more or less space -->
+    <img src="drakkar-site.png" width="700" align="top"/>
+    &nbsp;&nbsp;
     <img src="drakkar-site-mobile.png" width="180"/>
   </a>
 </div>
