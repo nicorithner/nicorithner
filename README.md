@@ -40,7 +40,7 @@
   
 
 <div align="center">
-  <a href="https://www.nicorithner.com">
+  <a href="https://www.nicorithner.com" target="_blank" rel="noopener noreferrer">
     <img src="nico-site.png" width="500" align="top" />
     &nbsp;&nbsp;
     <img src="nico-site-mobile.png" width="200" align="top" />
@@ -50,7 +50,7 @@
 <hr/>
 
 <div align="center">
-  <a href="https://www.drakkarweightlifting.com">
+  <a href="https://www.drakkarweightlifting.com" target="_blank" rel="noopener noreferrer">
     <img src="drakkar-site.png" width="500" align="top"/>
     &nbsp;&nbsp;
     <img src="drakkar-site-mobile.png" width="200"/>
