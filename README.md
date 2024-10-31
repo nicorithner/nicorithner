@@ -51,9 +51,9 @@
 
 <div align="center">
   <a href="https://www.drakkarweightlifting.com">
-    <img src="drakkar-site.png" width="700" align="top"/>
+    <img src="drakkar-site.png" width="500" align="top"/>
     &nbsp;&nbsp;
-    <img src="drakkar-site-mobile.png" width="180"/>
+    <img src="drakkar-site-mobile.png" width="200"/>
   </a>
 </div>
 
