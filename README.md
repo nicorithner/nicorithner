@@ -36,6 +36,30 @@
 
 <hr/>
 
+  ## Recent Frontend Projects 🖼️
+  
+
+<div align="center">
+  <a href="https://www.nicorithner.com">
+    <img src="nico-site.png" width="700"/>
+    &nbsp;&nbsp;&nbsp; <!-- Adjust the number of &nbsp; for more or less space -->
+    <img src="nico-site-mobile.png" width="180"/>
+  </a>
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href="https://www.drakkarweightlifting.com">
+    <img src="drakkar-site.png" width="700"/>
+    &nbsp;&nbsp;&nbsp; <!-- Adjust the number of &nbsp; for more or less space -->
+    <img src="drakkar-site-mobile.png" width="180"/>
+  </a>
+</div>
+
+
+<hr/>
+
   ## My Frontend Mentor Projects 🎨
   
   [My frontendmentor completed projects](https://www.frontendmentor.io/profile/nicorithner) - link to live page and github repos included.
