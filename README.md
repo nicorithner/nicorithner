@@ -40,6 +40,7 @@
 
   <div align="center">
     <h2>Trondheim Atletklubb Website</h2>
+    <a href="(https://github.com/TrondheimAtletklubb/tak-nettsiden)" target="_blank" rel="noopener noreferrer"><h3>Github Repo</h3></a>
     
   <a href="[Trondheim Atletklubb](https://trondheimatletklubb.github.io/tak-nettsiden/)" target="_blank" rel="noopener noreferrer">
     <img src="tak-desktop.png" width="400" align="top"/>
