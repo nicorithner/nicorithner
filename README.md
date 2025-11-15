@@ -7,8 +7,8 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nicorithner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nicorithner@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://drive.google.com/file/d/1TciMtrHq-y6eAaXTs34pAj-1VzbgDHE7/view?usp=sharing"> <img src="https://img.shields.io/badge/grab my resume-48494B?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank" href="https://drive.google.com/file/d/18n9ulqvFnhIWqvp-GXzcHJ2z-HUYiBhq/view?usp=sharing"> <img src="https://img.shields.io/badge/få min CV-001833?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>
+  <a target="_blank" href="https://drive.google.com/file/d/1iPixGsLv2gI243FcHbFkPHR6r6_6wzhq/view?usp=sharing"> <img src="https://img.shields.io/badge/grab my resume-48494B?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://drive.google.com/file/d/1x5EJ1wtRdTpoy0SVLGMYxqF7xtTN98eA/view?usp=sharing"> <img src="https://img.shields.io/badge/få min CV-001833?style=for-the-badge&logo=googledocs&logoColor=white" /> </a>
 </p>
 
 <hr/>
