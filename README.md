@@ -44,15 +44,7 @@
   [Github Repo](https://github.com/TrondheimAtletklubb/tak-nettsiden)
     
   <a href="https://trondheimatletklubb.github.io/tak-nettsiden" target="_blank" rel="noopener noreferrer">
-    <img src="tak-desktop.png" width="400" align="top"/>
-    &nbsp;&nbsp;
-    <img src="tak-mobil.png" width="150"/>
-    <img src="tak-mobil-1.png" width="150"/>
-  <br/>
-        <img src="tak-desktop-1.png" width="400" align="top"/>
-    &nbsp;&nbsp;
-    <img src="tak-mobil-1.png" width="150"/>
-    <img src="tak-mobile-2.png" width="150"/>
+    <img src="tak-nettsiden.png" width="800"/>
   </a>
 </div>
 
