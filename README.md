@@ -37,6 +37,13 @@
 <hr/>
 
   ## Recent Frontend Projects 🖼️
+  
+  <div align="center">
+    <h2>Focus Timer Mobile App</h2>
+    <img src="focus-timer-collage.png" width="800"/>
+ 
+</div>
+<hr/>  
 
   <div align="center">
     <h2>Trondheim Atletklubb Website</h2>
