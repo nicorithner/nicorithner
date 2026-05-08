@@ -39,7 +39,8 @@
   ## Recent Frontend Projects 🖼️
   
   <div align="center">
-    <h2>Focus Timer Mobile App</h2>
+    <h2>InFokus</h2>
+    <h3>IOS Focus Timer Mobile App</h3>
     <img src="focus-timer-collage.png" width="800"/>
  
 </div>
