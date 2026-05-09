@@ -72,9 +72,7 @@
     <h2>Drakkar Weightlifting Website </h2>
     
   <a href="https://www.drakkarweightlifting.com" target="_blank" rel="noopener noreferrer">
-    <img src="drakkar-site.png" width="500" align="top"/>
-    &nbsp;&nbsp;
-    <img src="drakkar-site-mobile.png" width="200"/>
+    <img src="dw-collage.png" width="800" align="top"/>
   </a>
 </div>
 
