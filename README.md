@@ -42,6 +42,7 @@
     <h2>InFokus</h2>
     <h3>IOS Focus Timer Mobile App</h3>
     <img src="focus-timer-collage.png" width="800"/>
+    <p>React Native, TypeScript, IOS</p>
  
 </div>
 <hr/>  
@@ -54,6 +55,7 @@
   <a href="https://trondheimatletklubb.github.io/tak-nettsiden" target="_blank" rel="noopener noreferrer">
     <img src="tak-nettsiden.png" width="800"/>
   </a>
+  <p>Vite, TypeScript, Jest, SCSS, Github Pages, AWS S3</p>
 </div>
 
 <hr/>
@@ -64,6 +66,7 @@
   <a href="https://www.fyrkode.com" target="_blank" rel="noopener noreferrer">
     <img src="fk-site-collage.png" width="800" align="top"/>
   </a>
+  <p>NextJS, TypeScript, Jest, SCSS, AWS Amplify, AWS S3</p>
 </div>
 
 <hr/>
@@ -74,6 +77,7 @@
   <a href="https://www.drakkarweightlifting.com" target="_blank" rel="noopener noreferrer">
     <img src="dw-collage.png" width="800" align="top"/>
   </a>
+  <p>NextJS, TypeScript, Jest, SCSS, AWS Amplify, AWS S3</p>
 </div>
 
 <hr/>
@@ -86,6 +90,7 @@
     <img src="nico-site.png" width="500" align="top" />
     &nbsp;&nbsp;
     <img src="nico-site-mobile.png" width="200" align="top" />
+    <p>NextJS, TypeScript, Jest, SCSS, AWS Amplify, AWS S3</p>
   </a>
 </div>
 
