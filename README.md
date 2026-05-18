@@ -55,7 +55,7 @@
   <a href="https://trondheimatletklubb.github.io/tak-nettsiden" target="_blank" rel="noopener noreferrer">
     <img src="tak-nettsiden.png" width="800"/>
   </a>
-  <p>Vite, TypeScript, Jest, SCSS, Github Pages, AWS S3</p>
+  <p>Vite, JavaScript, Jest, SCSS, Github Pages, AWS S3</p>
 </div>
 
 <hr/>
