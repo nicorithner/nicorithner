@@ -41,7 +41,9 @@
   <div align="center">
     <h2>InFokus</h2>
     <h3>IOS Focus Timer Mobile App</h3>
-    <img src="focus-timer-collage.png" width="800"/>
+    <a href="https://apps.apple.com/app/infokus/id6766743674" target="_blank" rel="noopener noreferrer">
+      <img src="focus-timer-collage.png" width="800"/>
+    <a/>
     <p>React Native, TypeScript, IOS</p>
  
 </div>
