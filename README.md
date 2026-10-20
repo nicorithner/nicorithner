@@ -13,9 +13,17 @@
 
 <hr/>
 
-👨🏻‍💻   Full Stack Software Engineer
+👨🏻‍💻   Full Stack Software Engineer.
+
+🚧  Currently developing a greenfield SASS product at FyrKode Software Studio. Technical stack Highlights: Java, Springboot, Maven, TypeScript, React, React Native.
 
 📚   Trained at [Turing School of Software and Design](https://turing.io/). Back end program - cohort 2006.
+
+<p> 🇺🇸 English - Fluent </p>
+<p> 🇪🇸 Spanish - Fluent </p>
+<p> 🇳🇴 Norwegian (bokmål) - Intermediate level B1 </p>
+
+<h2>CODING SKILLS</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" />
@@ -40,9 +48,9 @@
 
 </div>
 
-<hr/>
 
-  ## Recent Frontend Projects 🖼️
+
+<h2 align="left">FRONT END PROJECTS 🖼️</h2>
   
   <div align="center">
     <h2>InFokus</h2>
@@ -102,9 +110,7 @@
   </a>
 </div>
 
-<hr/>
-
-  ## My Frontend Mentor Projects 🎨
+<h2 align="left">FRONTEND MENTOR PROJECTS 🎨</h2>
   
   [My frontendmentor completed projects](https://www.frontendmentor.io/profile/nicorithner) - link to live page and github repos included.
   
